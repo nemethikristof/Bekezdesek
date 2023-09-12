@@ -1,3 +1,9 @@
+p{
+    border: 10px solid red;
+    border-width: 10px 20px 30px;
+    padding: 30px;
+    margin: 20px;
+}
 .balra{
     text-align: left;
 }
@@ -6,4 +12,7 @@
 }
 .középre{
     text-align: center;
+}
+.elsosor_behuzasa{
+    text-indent: 20px;
 }
